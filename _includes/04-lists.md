@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Hiking
+2. Play games
+   1. board games
+   2. video games
+3. Swim
+4. Sleep
